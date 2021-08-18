@@ -1,0 +1,1027 @@
+Connecting to Oracle...
+Connected!
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Atkins
+Student identification number: 298433300
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --4             --Yang           --Sci2 212 on Fri from 1000 to 1300
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --1             --Brown          --Engr 212 on Mon from 1000 to 1130, Engr 212 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --1             --Johns          --Hmnt 110 on Mon from 1000 to 1130, Hmnt 110 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --1             --Brown          --Sci1 105 on Mon from 1000 to 1200, Sci1 105 on Wed from 1000 to 1200
+
+        Total number of Credits: 13
+        Amount due             : $6,282.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Garrison
+Student identification number: 732497102
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --1             --Brown          --Engr 212 on Mon from 1000 to 1130, Engr 212 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --1             --Johns          --Hmnt 110 on Mon from 1000 to 1130, Hmnt 110 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --1             --Brown          --Sci1 105 on Mon from 1000 to 1200, Sci1 105 on Wed from 1000 to 1200
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Maynard
+Student identification number: 155933579
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --2             --Agrawal        --Sci2 212 on Tue from 1100 to 1230, Sci2 212 on Thu from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --2             --Agrawal        --Engr 212 on Tue from 1200 to 1330, Engr 212 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --2             --Brown          --Sci1 105 on Tue from 1000 to 1200, Sci1 105 on Thu from 1000 to 1200
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Conley
+Student identification number: 196980383
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --2             --Agrawal        --Sci2 212 on Tue from 1100 to 1230, Sci2 212 on Thu from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --2             --Agrawal        --Engr 212 on Tue from 1200 to 1330, Engr 212 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --2             --Brown          --Sci1 105 on Tue from 1000 to 1200, Sci1 105 on Thu from 1000 to 1200
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Soto
+Student identification number: 188520364
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 201               --Advanced CS             --3                --1             --Sakar          --Engr 214 on Tue from 1200 to 1330, Engr 216 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --1             --Goldman        --Engr 212 on Mon from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --1             --Gupta          --Sci1 107 on Tue from 1400 to 1700
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Pierce
+Student identification number: 181091540
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 201               --Advanced CS             --3                --2             --Sakar          --Engr 214 on Mon from 1200 to 1330, Engr 216 on Wed from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --2             --Smith          --Engr 214 on Mon from 1400 to 1700
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Gallegos
+Student identification number: 406232123
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --3             --Andrews        --Hmnt 120 on Mon from 1200 to 1500
+
+        Total number of Credits: 6
+        Amount due             : $3138.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Mcbride
+Student identification number: 866490223
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --3             --Sakar          --Sci2 312 on Mon from 1530 to 1700, Sci2 312 on Wed from 1530 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --2             --Smith          --Engr 214 on Mon from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --5             --Black          --Hmnt 120 on Fri from 1200 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --1             --Gupta          --Sci1 107 on Tue from 1400 to 1700
+
+        Total number of Credits: 12
+        Amount due             : $6,282.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Gill
+Student identification number: 105379286
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 301              --Genetics                --3                --1             --Yang           --Sci2 212 on Wed from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 401               --Databases               --4                --2             --Goldman        --Engr 212 on Wed from 1200 to 1600
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 401             --Linear Algebra          --3                --1             --Ming           --Sci1 107 on Fri from 1000 to 1300
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Sexton
+Student identification number: 493597477
+Student major:                 cs
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 401               --Databases               --4                --1             --Motro          --Engr 216 on Tue from 1000 to 1400
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 401             --Future History          --2                --2             --Black          --Hmnt 120 on Wed from 1700 to 2000
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 401             --Linear Algebra          --3                --1             --Ming           --Sci1 107 on Fri from 1000 to 1300
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Glass
+Student identification number: 331689915
+Student major:                 cs
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 401               --Databases               --4                --1             --Motro          --Engr 216 on Tue from 1000 to 1400
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 501               --Special Topics          --4                --1             --Motro          --Engr 214 on Thu from 1700 to 2100
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 501             --Very Special Topics     --2                --1             --Brown          --Sci1 107 on Fri from 1300 to 1500
+
+        Total number of Credits: 10
+        Amount due             : $6,858.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Arias
+Student identification number: 499544274
+Student major:                 cs
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 401               --Databases               --4                --2             --Goldman        --Engr 212 on Wed from 1200 to 1600
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 501             --Very Special Topics     --2                --1             --Brown          --Sci1 107 on Fri from 1300 to 1500
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Thompson
+Student identification number: 340528397
+Student major:                 cs
+Student status:                graduate
+                               
+        Total number of Credits: 0
+        Amount due             : $0.00
+        You aren't enrolled this semester.
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Owens
+Student identification number: 529551348
+Student major:                 cs
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 501              --Special Topics          --4                --1             --Agrawal        --Sci2 212 on Fri from 1300 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 401               --Databases               --4                --1             --Motro          --Engr 216 on Tue from 1000 to 1400
+
+        Total number of Credits: 8
+        Amount due             : $6096.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Shelton
+Student identification number: 574429956
+Student major:                 cs
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 501              --Special Topics          --4                --1             --Agrawal        --Sci2 212 on Fri from 1300 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 401             --Future History          --2                --2             --Black          --Hmnt 120 on Wed from 1700 to 2000
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Chang
+Student identification number: 593653463
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --1             --Brown          --Engr 212 on Mon from 1000 to 1130, Engr 212 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --1             --Brown          --Sci1 105 on Mon from 1000 to 1200, Sci1 105 on Wed from 1000 to 1200
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Dalton
+Student identification number: 675478174
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --1             --Brown          --Engr 212 on Mon from 1000 to 1130, Engr 212 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --1             --Brown          --Sci1 105 on Mon from 1000 to 1200, Sci1 105 on Wed from 1000 to 1200
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Walsh
+Student identification number: 247010852
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --1             --Li             --Sci2 212 on Mon from 1100 to 1230, Sci2 212 on Wed from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --1             --Brown          --Engr 212 on Mon from 1000 to 1130, Engr 212 on Wed from 1000 to 1130
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --5             --Black          --Hmnt 120 on Fri from 1200 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --1             --Brown          --Sci1 105 on Mon from 1000 to 1200, Sci1 105 on Wed from 1000 to 1200
+
+        Total number of Credits: 13
+        Amount due             : $6,282.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Johnston
+Student identification number: 889539258
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --1             --Li             --Sci2 212 on Mon from 1100 to 1230, Sci2 212 on Wed from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --2             --Brown          --Sci1 105 on Tue from 1000 to 1200, Sci1 105 on Thu from 1000 to 1200
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Garcia
+Student identification number: 490044192
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --2             --Agrawal        --Sci2 212 on Tue from 1100 to 1230, Sci2 212 on Thu from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --2             --Brown          --Sci1 105 on Tue from 1000 to 1200, Sci1 105 on Thu from 1000 to 1200
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Leon
+Student identification number: 103570287
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --2             --Agrawal        --Sci2 212 on Tue from 1100 to 1230, Sci2 212 on Thu from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --2             --Brown          --Sci1 105 on Tue from 1000 to 1200, Sci1 105 on Thu from 1000 to 1200
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Randall
+Student identification number: 890136255
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --4             --Yang           --Sci2 212 on Fri from 1000 to 1300
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --4             --Johns          --Hmnt 120 on Wed from 1200 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --3             --Gupta          --Sci1 105 on Fri from 1100 to 1300, Sci1 105 on Fri from 1400 to 1500
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Rosales
+Student identification number: 645826081
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --3             --Green          --Sci2 212 on Mon from 1230 to 1400, Sci2 212 on Wed from 1230 to 1400
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --3             --Andrews        --Hmnt 120 on Mon from 1200 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --3             --Gupta          --Sci1 105 on Fri from 1100 to 1300, Sci1 105 on Fri from 1400 to 1500
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Marks
+Student identification number: 273726939
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --4             --Yang           --Sci2 212 on Fri from 1000 to 1300
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --3             --Gupta          --Sci1 105 on Fri from 1100 to 1300, Sci1 105 on Fri from 1400 to 1500
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Gordon
+Student identification number: 342655122
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 201               --Advanced CS             --3                --2             --Sakar          --Engr 214 on Mon from 1200 to 1330, Engr 216 on Wed from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 201             --Advanced Math           --6                --1             --White          --Sci1 105 on Mon from 1200 to 1500, Sci1 105 on Wed from 1200 to 1500
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Vaughan
+Student identification number: 890864954
+Student major:                 math
+Student status:                undergraduate
+                               
+        Total number of Credits: 0
+        Amount due             : $0.00
+        You aren't enrolled this semester.
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Scott
+Student identification number: 324728798
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 201               --Advanced CS             --3                --1             --Sakar          --Engr 214 on Tue from 1200 to 1330, Engr 216 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 201             --Advanced Math           --6                --2             --Ming           --Sci1 107 on Mon from 1000 to 1300, Sci1 107 on Wed from 1000 to 1300
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Johnston
+Student identification number: 627056460
+Student major:                 math
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 201             --Advanced Math           --6                --2             --Ming           --Sci1 107 on Mon from 1000 to 1300, Sci1 107 on Wed from 1000 to 1300
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Gilmore
+Student identification number: 584249315
+Student major:                 math
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --2             --Smith          --Engr 214 on Mon from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --1             --Gupta          --Sci1 107 on Tue from 1400 to 1700
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Lang
+Student identification number: 985216409
+Student major:                 math
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --1             --Goldman        --Engr 212 on Mon from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --1             --Gupta          --Sci1 107 on Tue from 1400 to 1700
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Horne
+Student identification number: 441247998
+Student major:                 math
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --1             --Goldman        --Engr 212 on Mon from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --2             --White          --Sci1 107 on Thu from 1400 to 1700
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Spears
+Student identification number: 597299739
+Student major:                 math
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 301               --Theory                  --3                --1             --Goldman        --Engr 212 on Mon from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --2             --White          --Sci1 107 on Thu from 1400 to 1700
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Lawrence
+Student identification number: 912541326
+Student major:                 math
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 401              --Molecular Biology       --4                --1             --Li             --Sci2 312 on Fri from 1500 to 1800
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 401             --Linear Algebra          --3                --1             --Ming           --Sci1 107 on Fri from 1000 to 1300
+
+        Total number of Credits: 7
+        Amount due             : $5334.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Barrett
+Student identification number: 957947344
+Student major:                 math
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 401              --Molecular Biology       --4                --1             --Li             --Sci2 312 on Fri from 1500 to 1800
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 501             --Very Special Topics     --2                --1             --Brown          --Sci1 107 on Fri from 1300 to 1500
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Bradshaw
+Student identification number: 862793210
+Student major:                 math
+Student status:                graduate
+                               
+        Total number of Credits: 0
+        Amount due             : $0.00
+        You aren't enrolled this semester.
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Valencia
+Student identification number: 381681932
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --3             --Green          --Sci2 212 on Mon from 1230 to 1400, Sci2 212 on Wed from 1230 to 1400
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --2             --Agrawal        --Engr 212 on Tue from 1200 to 1330, Engr 212 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --1             --Johns          --Hmnt 110 on Mon from 1000 to 1130, Hmnt 110 on Wed from 1000 to 1130
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Hendrix
+Student identification number: 807738930
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --1             --Li             --Sci2 212 on Mon from 1100 to 1230, Sci2 212 on Wed from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --3             --Agrawal        --Engr 214 on Mon from 1400 to 1530, Engr 214 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --2             --Black          --Hmnt 110 on Tue from 1000 to 1130, Hmnt 110 on Thu from 1000 to 1130
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Carroll
+Student identification number: 686827220
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --2             --Agrawal        --Sci2 212 on Tue from 1100 to 1230, Sci2 212 on Thu from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --2             --Agrawal        --Engr 212 on Tue from 1200 to 1330, Engr 212 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --3             --Andrews        --Hmnt 120 on Mon from 1200 to 1500
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Frederick
+Student identification number: 122428087
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 201             --Advanced History        --3                --1             --Andrews        --Hmnt 110 on Mon from 1300 to 1430, Hmnt 110 on Wed from 1300 to 1430
+
+        Total number of Credits: 6
+        Amount due             : $3138.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Greene
+Student identification number: 900015674
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --2             --Agrawal        --Sci2 312 on Tue from 1400 to 1530, Sci2 312 on Thu from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 201             --Advanced History        --3                --2             --Johns          --Hmnt 120 on Tue from 1200 to 1330, Hmnt 120 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --3             --Gupta          --Sci1 105 on Fri from 1100 to 1300, Sci1 105 on Fri from 1400 to 1500
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Nash
+Student identification number: 134329353
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --2             --Agrawal        --Sci2 312 on Tue from 1400 to 1530, Sci2 312 on Thu from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --3             --Agrawal        --Engr 214 on Mon from 1400 to 1530, Engr 214 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 301             --Ancient History         --3                --1             --Black          --Hmnt 120 on Tue from 1400 to 1700
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Pineda
+Student identification number: 227994770
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --2             --Agrawal        --Engr 212 on Tue from 1200 to 1330, Engr 212 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 301             --Ancient History         --3                --2             --Andrews        --Hmnt 120 on Thu from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 201             --Advanced Math           --6                --1             --White          --Sci1 105 on Mon from 1200 to 1500, Sci1 105 on Wed from 1200 to 1500
+
+        Total number of Credits: 12
+        Amount due             : $6,282.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Sanford
+Student identification number: 769580843
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Total number of Credits: 0
+        Amount due             : $0.00
+        You aren't enrolled this semester.
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  David
+Student identification number: 606756575
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 301              --Genetics                --3                --1             --Yang           --Sci2 212 on Wed from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 201               --Advanced CS             --3                --2             --Sakar          --Engr 214 on Mon from 1200 to 1330, Engr 216 on Wed from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 401             --Future History          --2                --1             --Johns          --Hmnt 120 on Mon from 1700 to 2000
+
+        Total number of Credits: 8
+        Amount due             : $4184.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  David
+Student identification number: 346474917
+Student major:                 hist
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 401             --Future History          --2                --2             --Black          --Hmnt 120 on Wed from 1700 to 2000
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --1             --Gupta          --Sci1 107 on Tue from 1400 to 1700
+
+        Total number of Credits: 8
+        Amount due             : $4184.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Hamilton
+Student identification number: 286191582
+Student major:                 hist
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 301              --Genetics                --3                --1             --Yang           --Sci2 212 on Wed from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 401             --Future History          --2                --1             --Johns          --Hmnt 120 on Mon from 1700 to 2000
+
+        Total number of Credits: 5
+        Amount due             : $3810.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Downs
+Student identification number: 432560284
+Student major:                 hist
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 401             --Future History          --2                --2             --Black          --Hmnt 120 on Wed from 1700 to 2000
+
+        Total number of Credits: 5
+        Amount due             : $3810.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Scott
+Student identification number: 876474954
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --1             --Li             --Sci2 212 on Mon from 1100 to 1230, Sci2 212 on Wed from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --4             --Johns          --Hmnt 120 on Wed from 1200 to 1500
+
+        Total number of Credits: 6
+        Amount due             : $3138.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Williams
+Student identification number: 768532179
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --2             --Agrawal        --Sci2 212 on Tue from 1100 to 1230, Sci2 212 on Thu from 1100 to 1230
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --3             --Andrews        --Hmnt 120 on Mon from 1200 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --2             --Brown          --Sci1 105 on Tue from 1000 to 1200, Sci1 105 on Thu from 1000 to 1200
+
+        Total number of Credits: 10
+        Amount due             : $5230.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Rios
+Student identification number: 105183261
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --3             --Green          --Sci2 212 on Mon from 1230 to 1400, Sci2 212 on Wed from 1230 to 1400
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 101             --Introduction to History --3                --2             --Black          --Hmnt 110 on Tue from 1000 to 1130, Hmnt 110 on Thu from 1000 to 1130
+
+        Total number of Credits: 6
+        Amount due             : $3138.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Joyce
+Student identification number: 641262009
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 101              --Introduction to Biology --3                --4             --Yang           --Sci2 212 on Fri from 1000 to 1300
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 101             --Introduction to Math    --4                --3             --Gupta          --Sci1 105 on Fri from 1100 to 1300, Sci1 105 on Fri from 1400 to 1500
+
+        Total number of Credits: 7
+        Amount due             : $3661.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Cruz
+Student identification number: 678245168
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --1             --Li             --Sci2 312 on Mon from 1400 to 1530, Sci2 312 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 201               --Advanced CS             --3                --2             --Sakar          --Engr 214 on Mon from 1200 to 1330, Engr 216 on Wed from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 201             --Advanced History        --3                --1             --Andrews        --Hmnt 110 on Mon from 1300 to 1430, Hmnt 110 on Wed from 1300 to 1430
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Perkins
+Student identification number: 963674359
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Total number of Credits: 0
+        Amount due             : $0.00
+        You aren't enrolled this semester.
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Gould
+Student identification number: 108323275
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --2             --Agrawal        --Sci2 312 on Tue from 1400 to 1530, Sci2 312 on Thu from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 201             --Advanced History        --3                --2             --Johns          --Hmnt 120 on Tue from 1200 to 1330, Hmnt 120 on Thu from 1200 to 1330
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 201             --Advanced Math           --6                --2             --Ming           --Sci1 107 on Mon from 1000 to 1300, Sci1 107 on Wed from 1000 to 1300
+
+        Total number of Credits: 12
+        Amount due             : $6,282.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Maxwell
+Student identification number: 991507531
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 201              --Advanced Biology        --3                --3             --Sakar          --Sci2 312 on Mon from 1530 to 1700, Sci2 312 on Wed from 1530 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        cs 101               --Introduction to CS      --3                --3             --Agrawal        --Engr 214 on Mon from 1400 to 1530, Engr 214 on Wed from 1400 to 1530
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 201             --Advanced History        --3                --2             --Johns          --Hmnt 120 on Tue from 1200 to 1330, Hmnt 120 on Thu from 1200 to 1330
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Snyder
+Student identification number: 769407825
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 301              --Genetics                --3                --1             --Yang           --Sci2 212 on Wed from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 201             --Advanced History        --3                --1             --Andrews        --Hmnt 110 on Mon from 1300 to 1430, Hmnt 110 on Wed from 1300 to 1430
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --2             --White          --Sci1 107 on Thu from 1400 to 1700
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Mercado
+Student identification number: 644835197
+Student major:                 bio
+Student status:                undergraduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 301              --Genetics                --3                --1             --Yang           --Sci2 212 on Wed from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 301             --Ancient History         --3                --1             --Black          --Hmnt 120 on Tue from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 301             --Calculus                --3                --2             --White          --Sci1 107 on Thu from 1400 to 1700
+
+        Total number of Credits: 9
+        Amount due             : $4707.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Fields
+Student identification number: 984272857
+Student major:                 bio
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 401              --Molecular Biology       --4                --1             --Li             --Sci2 312 on Fri from 1500 to 1800
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        hist 301             --Ancient History         --3                --2             --Andrews        --Hmnt 120 on Thu from 1400 to 1700
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 201             --Advanced Math           --6                --1             --White          --Sci1 105 on Mon from 1200 to 1500, Sci1 105 on Wed from 1200 to 1500
+
+        Total number of Credits: 13
+        Amount due             : $6,858.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  Riggs
+Student identification number: 901790946
+Student major:                 bio
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 501              --Special Topics          --4                --1             --Agrawal        --Sci2 212 on Fri from 1300 to 1500
+
+        Total number of Credits: 4
+        Amount due             : $3048.00
+------------------------------------------------------------------------------------------------------------------------------------
+Date mailed:                   Nov 16 2019
+Semester:                      Fall 2019
+Student name:                  David
+Student identification number: 193468218
+Student major:                 bio
+Student status:                graduate
+                               
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        bio 501              --Special Topics          --4                --1             --Agrawal        --Sci2 212 on Fri from 1300 to 1500
+
+        Course identification--Course title--------------Number of credits--Section number--Instructor name--Meetings
+        math 501             --Very Special Topics     --2                --1             --Brown          --Sci1 107 on Fri from 1300 to 1500
+
+        Total number of Credits: 6
+        Amount due             : $4572.00
+------------------------------------------------------------------------------------------------------------------------------------
